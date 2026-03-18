@@ -1,4 +1,13 @@
 ## Hi there 👋
+コーディングよりもものづくりが好き。ようかんって呼んでね!
+
+## 自宅サーバー
+自己紹介ページ: https://youkan.uk/
+#### やってることのメモ  
+https://scrapbox.io/pnasi/  
+https://zenn.dev/yokan
+最近proxmoxとgitlabとtruenasを入れたりして遊んでる。
+最近ドメイン買ってからcloud flare tunnelが楽で使ってる
 
 <!--
 **yesdiegohaz/yesdiegohaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
